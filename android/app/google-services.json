@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "362908283215",
+    "project_id": "fb-link-dashboard",
+    "storage_bucket": "fb-link-dashboard.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362908283215:android:cf2051da2cfd0c64f7553a",
+        "android_client_info": {
+          "package_name": "com.apexhub.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362908283215-45lrs3ea3mcihp3mij5gvtnr5mv7igol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apexhub.app",
+            "certificate_hash": "e743e28609bbe5af8adff0f3405bd41e7249747a"
+          }
+        },
+        {
+          "client_id": "362908283215-qcsgiampiggvgrfge8g9c2shr3npv8e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIrDQWfJwP35h3dKYCkbMJ9rWlJScGMUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362908283215-qcsgiampiggvgrfge8g9c2shr3npv8e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

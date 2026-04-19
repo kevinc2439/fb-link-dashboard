@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Apex Hub: Live Tracker",
+  "version": "1.0",
+  "permissions": ["storage", "activeTab"],
+  "host_permissions": ["https://*.mcluck.com/*", "https://*.pulsz.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://*.mcluck.com/*", "https://*.pulsz.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
